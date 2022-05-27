@@ -6,6 +6,7 @@
 package paquete5;
 
 import java.util.ArrayList;
+import java.util.List;
 import paquete1.Profesor;
 
 /**
@@ -14,7 +15,6 @@ import paquete1.Profesor;
  */
 public class ManejoArrayList2 {
     public static void main(String[] args) {
-        
         Profesor prof1 = new Profesor("Joseph Jimenez", "facturado");
         Profesor prof2 = new Profesor("David Jones", "nombramiento");
         
