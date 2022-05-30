@@ -5,6 +5,7 @@
  */
 package paquete2;
 
+import java.util.ArrayList;
 import paquete1.Profesor;
 
 public class Ejecutor {
@@ -13,6 +14,8 @@ public class Ejecutor {
 
         // nombre del archivo
         String nombreArchivo = "profesores2.txt";
+        
+        
         
         Profesor profesor1 = new Profesor("Tara Hernandez", "contratado");
         Profesor profesor2 = new Profesor("Gregory Walsh", "nombramiento");
